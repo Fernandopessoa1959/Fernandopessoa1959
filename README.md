@@ -5,9 +5,9 @@
 
 - 🔭 Atualmente estou trabalhando **como PMO na editora Santillana**
 
-- EU procuro colaborar em **Projetos de IA**
+- Eu procuro colaborar em **Projetos de IA**
 
-- 💬 ME pergunte sobre **gestão, programação, IA, carreira**
+- 💬 Me pergunte sobre **gestão, programação, IA, carreira**
 
 - 📫 Fale comigo em **fernando.pessoa1959@gmail.com**
 
