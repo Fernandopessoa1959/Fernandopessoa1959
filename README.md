@@ -1,4 +1,4 @@
-<h1 align="center">OI 👋, SOU EU o Fernando</h1>
+<h1 align="center">OI 👋, sou eu o Fernando</h1>
 <h3 align="center">Estudo Inteligência Artificial para ajudar nosso planeta</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandopessoa1959&label=Profile%20views&color=0e75b6&style=flat" alt="fernandopessoa1959" /> </p>
