@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandopessoa1959&label=Profile%20views&color=0e75b6&style=flat" alt="fernandopessoa1959" /> </p>
 
-- 🔭 Atualmente estou trabalhando **como PMO na editora Santillana**
+- 🔭 Atualmente estou me recolocando no mercado de trabalho
 
 - Eu procuro colaborar em **Projetos de IA**
 
